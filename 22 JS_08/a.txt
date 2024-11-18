@@ -1,0 +1,10 @@
+01.js
+
+FOR EACH -> this is used to perform some task over all the elements of the array
+arr.forEach(function)
+
+MAP -> creates a new arraay after processing some operations on the previous array
+arr.map(function)
+
+FILTER -> returns a new array based in some onditions
+arr.filter(function)
